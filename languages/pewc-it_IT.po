@@ -1,0 +1,929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Add-Ons Ultimate\n"
+"POT-Creation-Date: 2018-10-31 16:34+0000\n"
+"PO-Revision-Date: 2018-11-01 10:45-0500\n"
+"Last-Translator: Angelo Giammarresi <info@wocmultimedia.com>\n"
+"Language-Team: Angelo Giammarresi <info@wocmultimedia.biz>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: product-extras-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class-pewc-product-extra-post-type.php:36
+msgid "Delete this group?"
+msgstr "Eliminare questo gruppo?"
+
+#: classes/class-pewc-product-extra-post-type.php:37
+msgid ""
+"Delete this field? Deleting this field will also delete any conditions "
+"associated with it."
+msgstr ""
+"Eliminare questo campo? Eliminando questo campo verranno cancellate anche "
+"tutte le condizioni associate ad esso."
+
+#: classes/class-pewc-product-extra-post-type.php:38
+msgid "Delete this option?"
+msgstr "Eliminare questa opzione?"
+
+#: classes/class-pewc-product-extra-post-type.php:39
+#: templates/admin/condition.php:139 templates/admin/new-conditional-row.php:42
+msgid "Checked"
+msgstr "Selezionato"
+
+#: classes/class-pewc-product-extra-post-type.php:40
+msgid ""
+"This field is used in a condition. Changing its field type may affect the "
+"condition. Continue?"
+msgstr ""
+"Questo campo è utilizzato in una condizione. La modifica del tipo di campo "
+"può influire su questa condizione. Vuoi continuare?"
+
+#: classes/class-pewc-product-extra-post-type.php:41
+msgid "copy"
+msgstr "copia"
+
+#: classes/class-pewc-product-extra-post-type.php:42
+#: inc/functions-conditionals.php:20
+msgid " -- Select a field -- "
+msgstr " -- Seleziona un campo -- "
+
+#: classes/class-pewc-product-extra-post-type.php:63
+msgid "Add "
+msgstr "Aggiungere "
+
+#: classes/class-pewc-product-extra-post-type.php:64
+msgid "Add New "
+msgstr "Aggiungi nuovo "
+
+#: classes/class-pewc-product-extra-post-type.php:65
+msgid "Edit"
+msgstr "Modifica"
+
+#: classes/class-pewc-product-extra-post-type.php:66
+msgid "Edit "
+msgstr "Modifica "
+
+#: classes/class-pewc-product-extra-post-type.php:67
+msgid "New "
+msgstr "Nuovo "
+
+#: classes/class-pewc-product-extra-post-type.php:68
+#: classes/class-pewc-product-extra-post-type.php:69
+msgid "View "
+msgstr "Vedi "
+
+#: classes/class-pewc-product-extra-post-type.php:70
+msgid "Search "
+msgstr "Cerca "
+
+#: classes/class-pewc-product-extra-post-type.php:71
+msgid "None found"
+msgstr "Trovato niente"
+
+#: classes/class-pewc-product-extra-post-type.php:72
+msgid "None found in trash"
+msgstr "Trovato niente nel cestino"
+
+#: classes/class-pewc-product-extra-post-type.php:73
+msgid "Parent "
+msgstr "Genitore "
+
+#: classes/class-pewc-product-extra-post-type.php:233
+#: templates/admin/field-item.php:37
+msgid "Field"
+msgstr "Campo"
+
+#: classes/class-pewc-product-extra-post-type.php:234
+msgid "Value"
+msgstr "Valore"
+
+#: classes/class-pewc-product-extra-post-type.php:235
+#: templates/admin/field-item.php:86 templates/admin/new-field-item.php:66
+msgid "Price"
+msgstr "Prezzo"
+
+#: classes/class-pewc-product-extra-post-type.php:322
+msgid "Order"
+msgstr "Ordine"
+
+#: classes/class-pewc-product-extra-post-type.php:323
+#: inc/functions-export.php:57
+msgid "Product"
+msgstr "Prodotto"
+
+#: classes/class-pewc-product-extra-post-type.php:324
+msgid "User"
+msgstr "Utente"
+
+#: classes/class-pewc-product-extra-post-type.php:325
+#: inc/functions-custom-panel.php:229
+msgid "Date"
+msgstr "Data"
+
+#: classes/class-pewc-settings-tab.php:29 inc/functions-custom-panel.php:17
+#: inc/metaboxes.php:171
+msgid "Product Extras"
+msgstr "Extra di prodotto"
+
+#. Plugin Name of the plugin/theme
+#: classes/class-pewc-settings-tab.php:44
+msgid "WooCommerce Product Add-Ons Ultimate"
+msgstr "Extra di prodotto per WooCommerce"
+
+#: classes/class-pewc-settings-tab.php:50
+msgid "License key"
+msgstr "Chiave di licenza"
+
+#: classes/class-pewc-settings-tab.php:53
+msgid ""
+"Enter your license key here. You should have received a key with the email "
+"containing the plugin download link."
+msgstr ""
+"Inserisci qui la tua chiave di licenza. Devi aver ricevuto una chiave di "
+"licenza con l'e-mail contenente il link per scaricare il plugin."
+
+#: classes/class-pewc-settings-tab.php:58
+msgid "Users must be logged in to upload"
+msgstr "Gli utenti devono effettuare l'accesso prima di caricare"
+
+#: classes/class-pewc-settings-tab.php:61
+msgid ""
+"For security reasons, it is strongly recommended that you require users to "
+"be logged in before allowing them to upload files."
+msgstr ""
+"Per ragioni di sicurezza è fortemente consigliato che richiedi agli utenti "
+"di accedere all'account prima che possano caricare i file."
+
+#: classes/class-pewc-settings-tab.php:67
+msgid "Max file size (MB)"
+msgstr "Dimensioni massime del file (MB)"
+
+#: classes/class-pewc-settings-tab.php:70
+msgid "The max file size for uploads (in MB)"
+msgstr "Le dimensioni massime del file da caricare (in MB)"
+
+#: classes/class-pewc-settings-tab.php:75
+msgid "Hide zero prices"
+msgstr "Nascondi i prezzo zero"
+
+#: classes/class-pewc-settings-tab.php:78
+msgid "Hide prices in the cart for extras which don't have a cost."
+msgstr "Nascondi i prezzi nel carrello per gli extra che non hanno un costo."
+
+#: classes/class-pewc-settings-tab.php:84
+msgid "Ignore tax setting"
+msgstr "Ignora la tassa impostata"
+
+#: classes/class-pewc-settings-tab.php:87
+msgid ""
+"Ignore the WooCommerce \"Display prices in the shop\" setting which "
+"determines whether prices are displaying including or excluding tax."
+msgstr ""
+"Ignora l'impostazione di WooCommerce \"Visualizza prezzi nel negozio\" che "
+"determina se i prezzi vanno mostrati tasse incluse o escluse."
+
+#: classes/class-pewc-settings-tab.php:106
+#: classes/class-pewc-settings-tab.php:149
+msgid "Upgrade"
+msgstr "Aggiornamento"
+
+#: classes/class-pewc-sl-plugin-updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"È disponibile una nuova versione di %1$s. %2$svedi versione %3$s dettagli"
+"%4$s."
+
+#: classes/class-pewc-sl-plugin-updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"È disponibile una nuova versione di %1$s. %2$sVedi i dettagli della versione "
+"%3$s%4$s oppure %5$saggiorna ora%6$s."
+
+#: classes/class-pewc-sl-plugin-updater.php:399
+msgid "You do not have permission to install plugin updates"
+msgstr "Non hai il permesso per istallare gli aggiornamenti del plugin"
+
+#: classes/class-pewc-sl-plugin-updater.php:399
+msgid "Error"
+msgstr "Errore"
+
+#: inc/functions-cart.php:424 inc/functions-cart.php:443
+#: inc/functions-cart.php:450 inc/functions-cart.php:457
+#: inc/functions-cart.php:501 inc/functions-cart.php:514
+msgid " is a required field."
+msgstr " È un campo obbligatorio."
+
+#: inc/functions-cart.php:431
+msgid ": minimum number of characters: "
+msgstr ": numero minimo di caratteri: "
+
+#: inc/functions-cart.php:434
+msgid ": maximum number of characters: "
+msgstr ": numero massimo di caratteri: "
+
+#: inc/functions-cart.php:464
+msgid ": minimum value is "
+msgstr ": il valore minimo é "
+
+#: inc/functions-cart.php:467
+msgid ": maximum value is "
+msgstr ": il valore massimo é "
+
+#: inc/functions-cart.php:476
+msgid ": File size too large."
+msgstr ": La dimensione del file è troppo grande."
+
+#: inc/functions-cart.php:481
+msgid " is a required upload field."
+msgstr " è un campo di caricamento richiesto."
+
+#: inc/functions-cart.php:493 inc/functions-media.php:152
+#: inc/functions-media.php:161 inc/functions-media.php:177
+msgid "File not valid."
+msgstr "File non valido."
+
+#: inc/functions-cart.php:508
+msgid " must have a quantity entered."
+msgstr " devi immettere una quantità."
+
+#: inc/functions-cart.php:583
+msgid "Flat rate cost"
+msgstr "Costo forfettario"
+
+#: inc/functions-conditionals.php:28 inc/functions-conditionals.php:37
+msgid "[no label]"
+msgstr "[senza etichetta]"
+
+#: inc/functions-conditionals.php:51
+msgid "Hide this field if"
+msgstr "Nascondere questo campo se"
+
+#: inc/functions-conditionals.php:52
+msgid "Show this field if"
+msgstr "Mostra questo campo se"
+
+#: inc/functions-conditionals.php:63
+msgid "All rules match"
+msgstr "Tutte le regole corrispondono"
+
+#: inc/functions-conditionals.php:64
+msgid "Any rule matches"
+msgstr "Ogni regola coincide"
+
+#: inc/functions-conditionals.php:75
+msgid "Is"
+msgstr "È"
+
+#: inc/functions-conditionals.php:76
+msgid "Is Not"
+msgstr "Non é"
+
+#: inc/functions-custom-panel.php:17
+msgid "Product Extra"
+msgstr "Extra di prodotto"
+
+#: inc/functions-custom-panel.php:78
+msgid "Add Group"
+msgstr "Aggiungi gruppo"
+
+#: inc/functions-custom-panel.php:137
+msgid "Group"
+msgstr "Gruppo"
+
+#: inc/functions-custom-panel.php:155 templates/admin/new-group.php:35
+msgid "Group title"
+msgstr "Titolo del gruppo"
+
+#: inc/functions-custom-panel.php:167 templates/admin/new-group.php:46
+msgid "Group Description"
+msgstr "Descrizione gruppo"
+
+#: inc/functions-custom-panel.php:179
+msgid "Fields"
+msgstr "Campi"
+
+#: inc/functions-custom-panel.php:192 templates/admin/new-group.php:58
+msgid "Add Field"
+msgstr "Aggiungi campo"
+
+#: inc/functions-custom-panel.php:228
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: inc/functions-custom-panel.php:230
+msgid "Name Your Price"
+msgstr "Scegli il tuo prezzo"
+
+#: inc/functions-custom-panel.php:231
+msgid "Number"
+msgstr "Numero"
+
+#: inc/functions-custom-panel.php:232
+msgid "Radio Group"
+msgstr "Gruppo Radio"
+
+#: inc/functions-custom-panel.php:233 templates/admin/field-item.php:156
+#: templates/admin/new-field-item.php:108
+msgid "Select"
+msgstr "Selezionare"
+
+#: inc/functions-custom-panel.php:234
+msgid "Text"
+msgstr "Testo"
+
+#: inc/functions-custom-panel.php:235
+msgid "Textarea"
+msgstr "Area di testo"
+
+#: inc/functions-custom-panel.php:236
+msgid "Upload"
+msgstr "Caricare"
+
+#: inc/functions-custom-panel.php:247
+msgid "All required fields"
+msgstr "Tutti i campi sono obbligatori"
+
+#: inc/functions-custom-panel.php:248
+msgid "All required fields if first field complete"
+msgstr "Tutti i campi sono obbligatori se il primo campo è completo"
+
+#: inc/functions-export.php:21 inc/functions-export.php:22
+#: inc/functions-export.php:35
+msgid "Export"
+msgstr "Esporta"
+
+#: inc/functions-export.php:32
+msgid "Export Product Extras"
+msgstr "Esporta gli extra di prodotto"
+
+#: inc/functions-export.php:33
+msgid ""
+"Click the Export button to export all your Product Add-Ons to a csv file "
+"which you can then open with Excel or other spreadsheet software."
+msgstr ""
+"Fai clic sul pulsante Esporta per esportare tutti i tuoi campi extra di "
+"prodotto come file csv che potrai usare con Excel o altri programmi di fogli "
+"di calcolo (spreadsheets)."
+
+#: inc/functions-export.php:49 inc/metaboxes.php:126
+msgid "Product Extra ID"
+msgstr "ID Extra di prodotto"
+
+#: inc/functions-export.php:50
+msgid "Product Extra Date"
+msgstr "Data Extra di prodotto"
+
+#: inc/functions-export.php:51 inc/metaboxes.php:14
+msgid "User ID"
+msgstr "ID utente"
+
+#: inc/functions-export.php:52 inc/metaboxes.php:22
+msgid "User Name"
+msgstr "Nome utente"
+
+#: inc/functions-export.php:53
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/functions-export.php:54
+msgid "Phone Number"
+msgstr "Numero di telefono"
+
+#: inc/functions-export.php:55
+msgid "Address"
+msgstr "Indirizzo"
+
+#: inc/functions-export.php:56 inc/metaboxes.php:57
+msgid "Order ID"
+msgstr "ID dell'ordine"
+
+#: inc/functions-export.php:58
+msgid "Product Extra Content"
+msgstr "Contenuto Extra di prodotto"
+
+#: inc/functions-export.php:59 inc/metaboxes.php:103
+msgid "Notes"
+msgstr "Note"
+
+#: inc/functions-export.php:60 inc/metaboxes.php:110
+msgid "Status"
+msgstr "Stato"
+
+#: inc/functions-global-extras.php:20 inc/functions-global-extras.php:21
+msgid "Global Add-Ons"
+msgstr "Extra Globali"
+
+#: inc/functions-global-extras.php:45
+msgid "Global Product Extras"
+msgstr "Extra di prodotto globali"
+
+#: inc/functions-global-extras.php:46
+msgid "Add Product Add-Ons in bulk to your products."
+msgstr "Aggiungi in blocco gli extra di prodotto ai tuoi prodotti."
+
+#: inc/functions-global-extras.php:56
+msgid "Add New Set"
+msgstr "Aggiungi nuovo set"
+
+#: inc/functions-global-extras.php:59
+msgid "Save Global Add-Ons"
+msgstr "Salva gli extra globali"
+
+#: inc/functions-global-extras.php:136
+msgid "On all products"
+msgstr "Per tutti i prodotti"
+
+#: inc/functions-global-extras.php:141
+msgid "By product"
+msgstr "Per prodotto"
+
+#: inc/functions-global-extras.php:147
+msgid "By category"
+msgstr "Per categoria"
+
+#: inc/functions-percentages.php:36 inc/functions-single-product.php:287
+msgid "per character"
+msgstr "per caratterre"
+
+#: inc/functions-pro-helpers.php:23
+msgid "Products"
+msgstr "Prodotti"
+
+#: inc/functions-pro-helpers.php:26
+msgid "Radio Group (Image)"
+msgstr "Gruppo Radio (Immagine)"
+
+#: inc/functions-single-product.php:232
+msgid "Product total"
+msgstr "Totale prodotto"
+
+#: inc/functions-single-product.php:239
+msgid "Options total"
+msgstr "Totale opzioni"
+
+#: inc/functions-single-product.php:247
+msgid "Flat rate total"
+msgstr "Totale forfettario"
+
+#: inc/functions-single-product.php:255
+msgid "Grand total"
+msgstr "Somma globale"
+
+#: inc/functions-single-product.php:322 inc/functions-single-product.php:339
+msgid "Min"
+msgstr "Minimo"
+
+#: inc/functions-single-product.php:333 inc/functions-single-product.php:346
+msgid "Max"
+msgstr "Massimo"
+
+#: inc/functions-single-product.php:341 inc/functions-single-product.php:348
+msgid "characters"
+msgstr "caratteri"
+
+#: inc/functions-single-product.php:355
+msgid "Max file size"
+msgstr "Dimensioni massime del file"
+
+#: inc/functions-single-product.php:359
+msgid "Permitted file types"
+msgstr "Tipi di file permessi"
+
+#: inc/functions-updater.php:70 inc/functions-updater.php:117
+msgid "An error occurred, please try again."
+msgstr "Si è verificato un errore, riprova."
+
+#: inc/functions-updater.php:84
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "La tua chiave di licenza è scaduta il %s."
+
+#: inc/functions-updater.php:91
+msgid "Your license key has been disabled."
+msgstr "La tua chiave di licenza è stata disattivata."
+
+#: inc/functions-updater.php:96
+#, php-format
+msgid ""
+"Invalid license key for %s. Please enter your license number in WooCommerce "
+"> Settings > Product Extras to enable automatic updates and product support"
+msgstr ""
+"Chiave di licenza non valida per %s. Entra il tuo numero di licenza in "
+"WooCommerce > Impostazioni > Extra di prodotto per abilitare l'aggiornamento "
+"automatico ed il supporto al prodotto"
+
+#: inc/functions-updater.php:102
+msgid "Your license is not active for this URL."
+msgstr "La tua licenza non è attiva per questo URL."
+
+#: inc/functions-updater.php:107
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Questa chiave non risulta essere una chiave di licenza valida per %s."
+
+#: inc/functions-updater.php:112
+msgid "Your license key has reached its activation limit."
+msgstr "La tua chiave di licenza ha raggiunto il limite di attivazioni."
+
+#: inc/functions-updater.php:127
+msgid "License activated"
+msgstr "Licenza attivata"
+
+#: inc/metaboxes.php:30
+msgid "User Email"
+msgstr "E-mail utente"
+
+#: inc/metaboxes.php:38
+msgid "User Phone Number"
+msgstr "Telefono utente"
+
+#: inc/metaboxes.php:49
+msgid "Product ID"
+msgstr "ID prodotto"
+
+#: inc/metaboxes.php:65
+msgid "Item Cost"
+msgstr "Costo articolo"
+
+#: inc/metaboxes.php:73
+msgid "Order Total"
+msgstr "Totale dell'ordine"
+
+#: inc/metaboxes.php:81
+msgid "Order Notes"
+msgstr "Note dell'ordine"
+
+#: inc/metaboxes.php:94
+msgid "Product Extra Fields"
+msgstr "Campi Extra di prodotto"
+
+#: inc/metaboxes.php:114
+msgid "Accept"
+msgstr "Accettare"
+
+#: inc/metaboxes.php:115
+msgid "Reject"
+msgstr "Rifiutare"
+
+#: inc/metaboxes.php:135
+msgid "User Details"
+msgstr "Dettagli utente"
+
+#: inc/metaboxes.php:144
+msgid "Order Details"
+msgstr "Dettagli dell'ordine"
+
+#: inc/metaboxes.php:153
+msgid "Product Extra Groups"
+msgstr "Gruppi Extra di prodotto"
+
+#: inc/metaboxes.php:162
+msgid "Additional Information"
+msgstr "Informazioni aggiuntive"
+
+#: product-extras-for-woocommerce.php:45
+msgid ""
+"WooCommerce Product Add-Ons Ultimate requires WooCommerce version 3.0.0 minimum. "
+"Please upgrade your version of WooCommerce."
+msgstr ""
+"Extra di prodotto per WooCommerce richiedono almeno la versione 3.0.0. "
+"Attualizza la tua versione di WooCommerce."
+
+#: product-extras-for-woocommerce.php:51
+msgid ""
+"WooCommerce Product Add-Ons Ultimate requires WooCommerce to be installed. Please "
+"install and activate WooCommerce."
+msgstr ""
+"Gli Extra di prodotto per WooCommerce necessitano che WooCommerce sia "
+"installato. Pertanto, installa e attiva WooCommerce."
+
+#: product-extras-for-woocommerce.php:63
+msgid "Product Extras - important information"
+msgstr "Contenuto Extra di prodotto - informazioni importanti"
+
+#: product-extras-for-woocommerce.php:67
+msgid ""
+"Version 2.2.0 of Product Extras has changed how prices are displayed for "
+"Product Add-Ons. Pricing now respects the WooCommerce \"Display prices in the "
+"shop\" setting, which determines whether prices are displayed including or "
+"excluding tax. If you would like to continue using the old method, please go "
+"to <a href=\""
+msgstr ""
+"Nella versione 2.2.0 degli Extra di Prodotto è cambiato il modo in cui "
+"vengono visualizzati i prezzi degli extra di prodotto. Il prezzo ora "
+"rispetta le impostazioni in WooCommerce di \"Visualizza prezzi nel negozio"
+"\", che determina se i prezzi devono essere mostrati con le tasse incluse o "
+"escluse. Se vuoi continuare ad usare il vecchio metodo, vai a <a href=\""
+
+#: templates/admin/condition.php:143 templates/admin/field-meta-actions.php:17
+#: templates/admin/group-meta-actions.php:16
+#: templates/admin/new-conditional-row.php:33 templates/admin/new-option.php:33
+#: templates/admin/option.php:48 templates/frontend/upload.php:23
+msgid "Remove"
+msgstr "Rimuovere"
+
+#: templates/admin/condition.php:152 templates/admin/new-condition.php:46
+msgid "Add Condition"
+msgstr "Aggiungi condizione"
+
+#: templates/admin/field-item.php:52 templates/admin/new-field-item.php:34
+msgid "Field Label"
+msgstr "Etichetta del campo"
+
+#: templates/admin/field-item.php:59 templates/admin/new-field-item.php:41
+msgid "Field Type"
+msgstr "Tipo di campo"
+
+#: templates/admin/field-item.php:72 templates/admin/new-field-item.php:53
+msgid "Field Price"
+msgstr "Campo del prezzo"
+
+#: templates/admin/field-item.php:83 templates/admin/new-field-item.php:63
+msgid "Option"
+msgstr "Opzione"
+
+#: templates/admin/field-item.php:106 templates/admin/new-field-item.php:71
+msgid "Add Option"
+msgstr "Aggiungi opzione"
+
+#: templates/admin/field-item.php:111 templates/admin/new-field-item.php:75
+msgid "First field is instruction only"
+msgstr "Il primo campo è solo un'istruzione"
+
+#: templates/admin/field-item.php:122 templates/admin/new-field-item.php:85
+msgid "Child Products"
+msgstr "Prodotti figli"
+
+#: templates/admin/field-item.php:128
+msgid "Choose the child products"
+msgstr "Scegli i prodotti figli"
+
+#: templates/admin/field-item.php:149 templates/admin/new-field-item.php:102
+msgid "Products Layout"
+msgstr "Layout prodotti"
+
+#: templates/admin/field-item.php:154 templates/admin/new-field-item.php:106
+msgid "Checkboxes"
+msgstr "Caselle di spunta"
+
+#: templates/admin/field-item.php:155 templates/admin/new-field-item.php:107
+msgid "Radio"
+msgstr "Gruppo Radio"
+
+#: templates/admin/field-item.php:161 templates/admin/new-field-item.php:113
+msgid "Products Quantities"
+msgstr "Quantità di prodotti"
+
+#: templates/admin/field-item.php:166 templates/admin/new-field-item.php:117
+msgid "Independent"
+msgstr "Indipendente"
+
+#: templates/admin/field-item.php:167 templates/admin/new-field-item.php:118
+msgid "Linked"
+msgstr "Collegato"
+
+#: templates/admin/field-item.php:168 templates/admin/new-field-item.php:119
+msgid "One only"
+msgstr "Solo uno"
+
+#: templates/admin/field-item.php:173 templates/admin/new-field-item.php:124
+msgid "Select Field Placeholder"
+msgstr "Seleziona il segnaposto di un campo"
+
+#: templates/admin/field-item.php:182 templates/admin/new-field-item.php:131
+msgid "Child Product Not Required"
+msgstr "Prodotto figlio non richiesto"
+
+#: templates/admin/field-item.php:196 templates/admin/new-field-item.php:143
+msgid "Number Columns"
+msgstr "Numero di colonne"
+
+#: templates/admin/field-item.php:204 templates/admin/new-field-item.php:150
+msgid "Hide Labels?"
+msgstr "Nascondere le etichette?"
+
+#: templates/admin/field-item.php:216 templates/admin/new-field-item.php:160
+msgid "Required Field?"
+msgstr "Campo obbligatorio?"
+
+#: templates/admin/field-item.php:224 templates/admin/new-field-item.php:167
+msgid "Flat Rate?"
+msgstr "Prezzo Forfettario?"
+
+#: templates/admin/field-item.php:234 templates/admin/new-field-item.php:176
+msgid "Percentage?"
+msgstr "Percentuale?"
+
+#: templates/admin/field-item.php:245 templates/admin/new-field-item.php:185
+msgid "Min Chars"
+msgstr "Minimo di caratteri"
+
+#: templates/admin/field-item.php:252 templates/admin/new-field-item.php:192
+msgid "Max Chars"
+msgstr "Massimo di caratteri"
+
+#: templates/admin/field-item.php:259 templates/admin/new-field-item.php:199
+msgid "Price Per Character?"
+msgstr "Prezzo per carattere?"
+
+#: templates/admin/field-item.php:270 templates/admin/new-field-item.php:209
+msgid "Free Chars"
+msgstr "Caratteri gratuiti"
+
+#: templates/admin/field-item.php:277 templates/admin/new-field-item.php:216
+msgid "Only Allow Alphanumeric?"
+msgstr "Consentire solo caratteri alfanumerici?"
+
+#: templates/admin/field-item.php:285 templates/admin/new-field-item.php:223
+msgid "Only Charge Alphanumeric?"
+msgstr "Caricare solo caratteri alfanumerici?"
+
+#: templates/admin/field-item.php:297 templates/admin/new-field-item.php:233
+msgid "Min Value"
+msgstr "Valore minimo"
+
+#: templates/admin/field-item.php:304 templates/admin/new-field-item.php:240
+msgid "Max Value"
+msgstr "Valore massimo"
+
+#: templates/admin/field-item.php:311 templates/admin/new-field-item.php:247
+msgid "Multiply Price?"
+msgstr "Moltiplicare il prezzo?"
+
+#: templates/admin/field-item.php:322 templates/admin/new-field-item.php:257
+msgid "Min date today?"
+msgstr "Data minima oggi?"
+
+#: templates/admin/field-item.php:331 templates/admin/new-field-item.php:264
+msgid "Min date"
+msgstr "Data minima"
+
+#: templates/admin/field-item.php:339 templates/admin/new-field-item.php:271
+msgid "Max date"
+msgstr "Massimo data"
+
+#: templates/admin/field-item.php:353 templates/admin/field-item.php:358
+#: templates/admin/field-item.php:364 templates/admin/new-field-item.php:282
+#: templates/admin/new-field-item.php:287
+#: templates/admin/new-field-item.php:293
+msgid "Default"
+msgstr "Predefinito"
+
+#: templates/admin/field-item.php:388 templates/admin/new-field-item.php:305
+msgid "Field Image"
+msgstr "Campo dell'immagine"
+
+#: templates/admin/field-item.php:401 templates/admin/new-field-item.php:317
+msgid "Field Description"
+msgstr "Campo della descrizione"
+
+#: templates/admin/field-item.php:409 templates/admin/new-field-item.php:325
+msgid "Conditions"
+msgstr "Condizioni"
+
+#: templates/admin/field-meta-actions.php:14
+msgid "Drag"
+msgstr "Trascina"
+
+#: templates/admin/field-meta-actions.php:15
+#: templates/admin/group-meta-actions.php:14
+msgid "Collapse / Expand"
+msgstr "Comprimi / Espandi"
+
+#: templates/admin/field-meta-actions.php:16
+#: templates/admin/group-meta-actions.php:15
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: templates/admin/field-meta-actions.php:16
+#: templates/admin/group-meta-actions.php:15
+msgid "Copy"
+msgstr "Copia"
+
+#: templates/admin/field-meta-actions.php:17
+#: templates/admin/group-meta-actions.php:16
+msgid "Delete"
+msgstr "Elimina"
+
+#: templates/admin/global-rule.php:16 templates/admin/new-global-rule.php:16
+msgid "Rules"
+msgstr "Regole"
+
+#: templates/admin/global-rule.php:20 templates/admin/new-global-rule.php:20
+msgid "Display this group if:"
+msgstr "Visualizza questo gruppo se:"
+
+#: templates/admin/global-rule.php:26
+msgid "All the selected rules are met"
+msgstr "Tutte le regole selezionate sono soddisfatte"
+
+#: templates/admin/global-rule.php:27
+msgid "Any of the selected rules are met"
+msgstr "Ciascuna delle regole selezionate è soddisfatta"
+
+#: templates/admin/global-rule.php:37 templates/admin/new-global-rule.php:36
+msgid "Rule"
+msgstr "Regola"
+
+#: templates/admin/global-rule.php:38 templates/admin/new-global-rule.php:37
+msgid "With"
+msgstr "Con"
+
+#: templates/admin/group-settings.php:22
+msgid "Display groups as"
+msgstr "Visualizza questi gruppi come"
+
+#: templates/admin/group-settings.php:24
+msgid "Standard"
+msgstr "Standard"
+
+#: templates/admin/group-settings.php:25
+msgid "Accordion"
+msgstr "Fisarmonica"
+
+#: templates/admin/group-settings.php:26
+msgid "Tabs"
+msgstr "Schede"
+
+#: templates/admin/import-groups.php:16
+msgid "Import groups from"
+msgstr "Importa gruppi da"
+
+#: templates/admin/import-groups.php:17
+msgid "Search for a product&hellip;"
+msgstr "Cerca il prodotto&hellip;"
+
+#: templates/admin/import-groups.php:37
+msgid ""
+"Imported groups will appear after any groups already registered to this "
+"product."
+msgstr ""
+"I gruppi importati appariranno dopo i vari gruppi registrati per questo "
+"prodotto."
+
+#: templates/admin/import-groups.php:42
+msgid "Import Groups"
+msgstr "Importa gruppi"
+
+#: templates/admin/new-field-item.php:19
+msgid "New Field"
+msgstr "Aggiungi campo"
+
+#: templates/admin/new-field-item.php:93
+msgid ""
+"You need to save or publish this product before this field becomes available"
+msgstr ""
+"Devi salvare o pubblicare questo prodotto affinché questo campo sia "
+"disponibile"
+
+#: templates/admin/new-global-rule.php:25
+msgid "All the rules are met"
+msgstr "Tutte le regole sono soddisfatte"
+
+#: templates/admin/new-global-rule.php:26
+msgid "Any of the rules are met"
+msgstr "Ciascuna delle regole è soddisfatta"
+
+#: templates/admin/new-group.php:21
+msgid "New Group"
+msgstr "Aggiungi gruppo"
+
+#: templates/frontend/upload.php:17
+msgid "You need to be logged in to upload files"
+msgstr "È necessario che effettui l'accesso per caricare i file"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://catapultthemes.com/downloads/product-extras-woocommerce-product-"
+"addons/"
+msgstr ""
+"https://catapultthemes.com/downloads/product-extras-woocommerce-product-"
+"addons/"
+
+#. Description of the plugin/theme
+msgid "Add extra fields to WooCommerce products"
+msgstr "Aggiungi campi extra ai prodotti in WooCommerce"
+
+#. Author of the plugin/theme
+msgid "Catapult Themes"
+msgstr "Catapult Themes"
+
+#~ msgid "Image"
+#~ msgstr "Immagine"
